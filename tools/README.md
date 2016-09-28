@@ -4,24 +4,34 @@ A list of tools to help you get started.
 
 ## General Purpose
 * ``file``
-  * 
+  * determine file type
 * ``strings``
-  * 
+  * print the strings of printable characters in files
+* ``grep``
+  * print lines matching a pattern
+* ``tree``
+  * list contents of directories in a tree-like format
 
 ## File Carving
 * Foremost
   * ``foremost``
-* ``binwalk``
+  * recover files using their headers, footers, and data structures
+* Binwalk
+  * ``binwalk``
+  * tool for searching binary images for embedded files and executable code
 
 ## Image Forensics
 * Exiftool
   * ``exiftool``
-* 
+  * read and write meta information in files
+* ``pngcheck``
+  * test PNG image files for corruption, display size, type, compression info
 
 ## Audio Forensics
 * Audacity
 * Sonic Visualizer
-* ``sox``
+* Sox
+  * ``sox``
 
 ## Steganography (aka Stego) (NOT _Stenography_)
 * Stepic
@@ -53,7 +63,3 @@ A list of tools to help you get started.
 ## Reconnaissance
 * Google
 * DuckDuckGo
-
-## Links to Read
-* Steganography
-  * [http://www.caesum.com/handbook/stego.htm] (http://www.caesum.com/handbook/stego.htm)
