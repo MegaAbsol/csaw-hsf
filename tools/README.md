@@ -45,6 +45,7 @@ A list of tools to help you get started.
 
 ## Reverse Engineering (aka Reversing)
 * IDA
+* OllyDbg [http://ollydbg.de/]
 * GDB
   * ``gdb``
 * ``objdump``
