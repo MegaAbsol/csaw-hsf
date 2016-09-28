@@ -23,7 +23,7 @@ A list of tools to help you get started.
 * Sonic Visualizer
 * ``sox``
 
-## Steganography (aka Stego)
+## Steganography (aka Stego) (NOT _Stenography_)
 * Stepic
   * ``stepic``
 * Steghide
@@ -54,3 +54,6 @@ A list of tools to help you get started.
 * Google
 * DuckDuckGo
 
+## Links to Read
+* Steganography
+  * [http://www.caesum.com/handbook/stego.htm] (http://www.caesum.com/handbook/stego.htm)
